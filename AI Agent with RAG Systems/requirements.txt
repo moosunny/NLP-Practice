@@ -1,0 +1,6 @@
+pip install -U --quiet langchain-community tiktoken langchain-openai langchainhub chromadb langchain langgraph langchain-text-splitters beautifulsoup4
+pip install langchain_openai
+pip install langchain_community
+pip install langchain_core
+pip install -qU langchain-google-genai
+pip install -qU langchain-groq
